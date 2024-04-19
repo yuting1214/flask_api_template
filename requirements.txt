@@ -1,0 +1,8 @@
+python-dotenv
+click
+gunicorn
+Jinja2
+Flask==2.2.2
+connexion[swagger-ui]==2.14.1
+flask_sqlalchemy
+flask-marshmallow[sqlalchemy]
