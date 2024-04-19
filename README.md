@@ -16,3 +16,6 @@ You can view the live demo [here](https://web-production-7f10.up.railway.app/).
 
 ## 🔮 Future Direction:
 1. Integrate the React framework to update the vanilla JS files.
+
+## 📚 Referecnce:
+1. [Build a JavaScript Front End for a Flask API](https://realpython.com/flask-javascript-frontend-for-rest-api/)
